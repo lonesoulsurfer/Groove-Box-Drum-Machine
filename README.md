@@ -3,7 +3,8 @@ An Arduino Nano based drum machine based on the awesome DrumKid build (https://g
 
 I've also created an Instructable which you can find here - This is a step by step guide that makes it super simple to build your own, especially if you are new to Arduino and modular synths.
 
-The main aim with building this module is to create a modular synth.  The aim is to keep it as simple as possble and each module should have the following:
+Te main goal with building this module is to create a modular synth. I wanted to keep everything as simple as possble with each module built on the following aims:
+
  - Can be powered by 9V (and 12V)
  - Easy to build with minimum components
  - Use Arduino to keep it simple (plus it helps to keep the components down!
