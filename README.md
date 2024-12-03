@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/4eea0471-dde1-4ed7-b2dd-f4e1370c1a82)
 # Groove Box Drum Machine
 An Arduino Nano based drum machine based on the awesome DrumKid build (https://github.com/mattybrad/drumkid) by Matt Bradshaw.  My version includes 3 X trigger outputs so you can sync with other synths.  I've also designed it so it will fit into any Eurorack and can be powered by either a standard 16 pin Eurorack power input or a 9V JST connector.
 
@@ -12,5 +13,6 @@ The main goal with building this module is to create my own 'simple to build' mo
  - Use Arduino to keep it simple (plus it helps to keep the components down and everything in tune)
  - Can fit into any modular synth Eurorck (include the ability to power the module via normal module power sources)
  - Has to sound great!
+- Lastly, it should be portable and run off batteries
 
-
+![image](https://github.com/user-attachments/assets/99cd2d2f-db10-4bef-a9e0-91c678bc92be)
