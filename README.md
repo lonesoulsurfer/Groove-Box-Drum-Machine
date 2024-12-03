@@ -15,3 +15,4 @@ The main goal with building this module is to create my own 'simple to build' mo
  - Has to sound great!
 - Lastly, it should be portable and run off batteries
 
+![image](https://github.com/user-attachments/assets/99cd2d2f-db10-4bef-a9e0-91c678bc92be)
