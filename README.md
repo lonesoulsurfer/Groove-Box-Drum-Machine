@@ -12,5 +12,5 @@ The main goal with building this module is to create my own 'simple to build' mo
  - Use Arduino to keep it simple (plus it helps to keep the components down and everything in tune)
  - Can fit into any modular synth Eurorck (include the ability to power the module via normal module power sources)
  - Has to sound great!
-
+- Lastly, it should be portable and run off batteries
 
