@@ -5,7 +5,7 @@ An Arduino Nano based drum machine based on the awesome DrumKid build (https://g
 You can find a step by step guide on my Instructables page on how to build your own - https://www.instructables.com/Groove-Box-Arduino-Nano-Drum-Machine/
 
 
-I have also posted a video on my YouTube page - (https://youtu.be/VaNvsRpYE2A)
+I have also posted a video on my YouTube page - https://youtu.be/VaNvsRpYE2A
 
 The main goal with building this module is to create my own 'simple to build' modular synth. I wanted to keep everything as easy as possble with each module built with the following aims:
 
